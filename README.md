@@ -18,7 +18,7 @@ This Flutter project uses the following dependencies:
 
 Make sure to add these dependencies to your `pubspec.yaml` file for proper functionality.
 
-## Image Editor App in Flutter
+## Custome Crop UI App in Flutter
 
 This is a simple Flutter app that allows users to browse an image from their gallery, scale it, and move it within a specific aspect ratio. It also overlays a rectangle that shows the cropping area, which can be dynamically adjusted.
 ```dart
