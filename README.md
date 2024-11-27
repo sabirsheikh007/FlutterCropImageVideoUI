@@ -395,8 +395,8 @@ class CroppedImageScreen extends StatelessWidget {
   }
 }
 ```
-##Problem Overview
-In this challenge, we want to:
+# Problem Overview
+## In this challenge, we want to:
 
 Scale the Image: Allow the user to zoom in/out on the image.
 Move the Image: Allow the user to pan (move) the image around within a defined container.
