@@ -394,3 +394,11 @@ class CroppedImageScreen extends StatelessWidget {
     );
   }
 }
+
+##Problem Overview
+In this challenge, we want to:
+
+Scale the Image: Allow the user to zoom in/out on the image.
+Move the Image: Allow the user to pan (move) the image around within a defined container.
+Fit the Image into a Cropping Area: Ensure the image stays inside a specified crop area while maintaining the user's interactions.
+Get Coordinates for FFmpeg: Capture the coordinates of the cropped area, which can later be used in FFmpeg (for example, for cropping or extracting a section of the image).
