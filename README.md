@@ -394,7 +394,7 @@ class CroppedImageScreen extends StatelessWidget {
     );
   }
 }
-
+```
 ##Problem Overview
 In this challenge, we want to:
 
